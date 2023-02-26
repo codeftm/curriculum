@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week3/MathExample/MathExample.iml" filepath="$PROJECT_DIR$/week3/MathExample/MathExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/MethodTest/MethodTest.iml" filepath="$PROJECT_DIR$/week3/MethodTest/MethodTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/NumberAdder/NumberAdder.iml" filepath="$PROJECT_DIR$/week3/NumberAdder/NumberAdder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/PyramidPrinter/PyramidPrinter.iml" filepath="$PROJECT_DIR$/week3/PyramidPrinter/PyramidPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/RandomTest/RandomTest.iml" filepath="$PROJECT_DIR$/week3/RandomTest/RandomTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/SystemExitTest/SystemExitTest.iml" filepath="$PROJECT_DIR$/week3/SystemExitTest/SystemExitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5/week5.iml" filepath="$PROJECT_DIR$/week5/week5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week7/week7.iml" filepath="$PROJECT_DIR$/week7/week7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week8/week8.iml" filepath="$PROJECT_DIR$/week8/week8.iml" />
+    </modules>
+  </component>
+</project>

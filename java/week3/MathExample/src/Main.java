@@ -1,5 +1,5 @@
 public class Main {
-
+// comment
     public static void main(String[] args) {
         int secretNumber = (int)(Math.random() * 100);
         System.out.println(secretNumber);
